@@ -1,2 +1,3 @@
 # clone-website
-this is a clone website.
+this is my first Repositery.
+Author -   Sara Khan 
